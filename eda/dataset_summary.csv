@@ -1,0 +1,2 @@
+img_w,img_h,n_train,n_test,all_axis_aligned,direction_pct_into,xmin_norm_min,xmin_norm_max,ymin_norm_min,ymin_norm_max,xmax_norm_min,xmax_norm_max,ymax_norm_min,ymax_norm_max,bbox_w_norm_mean,bbox_h_norm_mean,aspect_ratio_mean
+720,480,1692,414,True,48.3,-0.4987,1.2958,0.4414,0.4798,-0.3512,1.4427,0.72,0.9676,0.1123,0.3602,2.4
