@@ -2,6 +2,7 @@ data/detection-by-shadow.zip
 *.zip
 **/Thumbs.db
 .venv/
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
